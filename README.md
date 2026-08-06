@@ -1,117 +1,76 @@
-```md
 <div align="center">
 
-# 👋 Olá! Eu sou Lucas de Paula
+👨‍💻 Lucas de Paula
 
-### 🚀 Desenvolvedor Full Stack | Automações Inteligentes | Inteligência Artificial
-
-<p>
-Transformando processos em soluções inteligentes através de desenvolvimento de software, integrações e IA.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Automation+Engineer+with+n8n;AI+%7C+REST+APIs+%7C+Docker;Building+smart+solutions+every+day"/>
 
 <p>
-    <a href="https://linkedin.com/in/lucas-de-paula-33894a204">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://github.com/LucasTr0nN">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="mailto:lucaspaula2103@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://wa.me/5531982449002">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    </a>
+<a href="https://portfolio-lucas-de-paula.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/lucas-de-paula-33894a204"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/LucasTr0nN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://wa.me/5531982449002"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 </div>
 
----
+🚀 Sobre mim
 
-# 💻 Sobre mim
+Desenvolvedor Full Stack focado em criar aplicações web, integrações e automações inteligentes.
 
-Sou desenvolvedor **Full Stack** apaixonado por tecnologia, automações e Inteligência Artificial.
+🤖 Automações com n8n
 
-Tenho experiência no desenvolvimento de aplicações web, APIs REST, modelagem de bancos de dados e criação de automações inteligentes utilizando **n8n**, integrando diversos serviços e plataformas.
+🧠 IA (OpenAI/LLMs)
 
-Atualmente meu foco está em desenvolver soluções que reduzam processos manuais, automatizem fluxos de trabalho e aumentem a produtividade das empresas.
+🔗 APIs REST e Webhooks
 
----
+🗄️ SQL Server, PostgreSQL e MySQL
 
-# 🚀 Tecnologias
+🐳 Docker
 
-## Front-end
+📊 Power BI
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
+🛠️ Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,cs,dotnet,mysql,postgres,docker,git,github,postman,vscode&perline=5"/>
 </p>
 
-## Back-end
+🌟 Projetos
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express"/>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-## Banco de Dados
+🤖 Automação de Atendimento
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
+n8n
 
-## DevOps & Ferramentas
+WhatsApp
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode"/>
-</p>
+Kommo CRM
 
----
+IA
 
-# 🤖 Automações & IA
+APIs REST
 
-- ⚡ n8n
-- 🤖 OpenAI
-- 🔗 APIs REST
-- 📧 SMTP
-- 🌐 Webhooks
-- 💬 WhatsApp
-- 📈 Kommo CRM
-- 📊 Power BI
-- 🗄️ SQL
+</td>
+<td width="50%">
 
----
+📧 Automação de E-mails
 
-# 📌 Projetos em Destaque
+SMTP
 
-## 🤖 Automação Inteligente de Atendimento
+Webhooks
 
-Sistema desenvolvido utilizando **n8n**, IA e integrações com WhatsApp e Kommo CRM para automatizar o atendimento ao cliente, qualificar leads e reduzir processos manuais.
+Fluxos inteligentes
 
----
+Integrações
 
-## 📧 Automação Inteligente de E-mails
+</td>
+</tr>
+</table>
 
-Fluxo automatizado responsável pelo envio de e-mails personalizados utilizando gatilhos, integrações e regras de negócio.
-
----
-
-## 💻 Desenvolvimento Full Stack
-
-Desenvolvimento de aplicações web completas utilizando arquitetura em camadas, APIs REST, autenticação, bancos de dados relacionais e integrações externas.
-
----
-
-# 📈 Atualmente estudando
-
-- Inteligência Artificial
-- Arquitetura de Software
-- Microsserviços
-- Docker
-- Cloud
-- Engenharia de Prompts
-
----
-
-# 📊 GitHub
+📈 GitHub
 
 <div align="center">
 
@@ -119,41 +78,22 @@ Desenvolvimento de aplicações web completas utilizando arquitetura em camadas,
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTr0nN&layout=compact&theme=github_dark&hide_border=true"/>
 
+<img src="https://streak-stats.demolab.com?user=LucasTr0nN&theme=github-dark-blue&hide_border=true"/>
+
 </div>
 
----
+📬 Contato
 
-# 🌎 Portfólio
-
-> 🔗 https://SEU-PORTFOLIO.vercel.app
-
----
-
-# 📫 Contato
-
-📧 **Email**
-
-lucaspaula2103@gmail.com
-
-💬 **WhatsApp**
-
-https://wa.me/5531982449002
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/lucas-de-paula-33894a204
-
-🐙 **GitHub**
-
-https://github.com/LucasTr0nN
-
----
+<table>
+<tr><td>📧</td><td><b>Email</b></td><td>lucaspaula2103@gmail.com</td></tr>
+<tr><td>💼</td><td><b>LinkedIn</b></td><td>linkedin.com/in/lucas-de-paula-33894a204</td></tr>
+<tr><td>💬</td><td><b>WhatsApp</b></td><td>wa.me/5531982449002</td></tr>
+</table>
 
 <div align="center">
 
-### 🚀 "Automatizar processos é liberar tempo para inovar."
+"Automatizar processos é permitir que pessoas foquem no que realmente importa."
 
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
-```
