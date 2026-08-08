@@ -32,7 +32,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor **Full Stack Júnior** há 1 ano e 6 meses, focado em criar aplicações web, integrações e automações inteligentes. Também atuo em um projeto profissional de **automação de processos e agentes de IA**.
+Desenvolvedor **Full Stack**, focado em criar aplicações web, integrações e automações inteligentes. Também atuo em um projeto profissional de **automação de processos e agentes de IA**.
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas pela **PUC Minas**.
 
@@ -82,7 +82,6 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas pela **PUC Minas**.
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
