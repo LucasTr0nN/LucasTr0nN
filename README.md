@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:58A6FF&amp;height=200&amp;section=header&amp;text=Lucas%20de%20Paula&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Automation%20%26%20AI&amp;descAlignY=55&amp;descSize=18"/>
+# 👋 Olá, eu sou o Lucas
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Full+Stack+Developer;Automation+Engineer+with+n8n;AI+%7C+REST+APIs+%7C+Docker;Building+smart+solutions+every+day"/>
 
@@ -100,19 +100,6 @@ Fluxos inteligentes de envio e monitoramento de e-mails via SMTP e Webhooks.
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasTr0nN&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTr0nN&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=LucasTr0nN&amp;theme=github-dark-blue&amp;hide_border=true"/>
-
-</div>
-
-<br/>
-
 ## 📬 Contato
 
 <table>
@@ -129,7 +116,5 @@ Fluxos inteligentes de envio e monitoramento de e-mails via SMTP e Webhooks.
 *"Automatizar processos é permitir que pessoas foquem no que realmente importa."*
 
 ⭐ **Obrigado por visitar meu perfil!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58A6FF,100:0D1117&amp;height=100&amp;section=footer"/>
 
 </div>
