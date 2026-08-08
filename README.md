@@ -56,5 +56,3 @@ Integrações
 "Automatizar processos é permitir que pessoas foquem no que realmente importa."
 ⭐ Obrigado por visitar meu perfil!
 </div>
-
-Melhore para deixar o mais bonito possivel para o github
